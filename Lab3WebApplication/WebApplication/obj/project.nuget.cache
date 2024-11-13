@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xg9+/jGzvjo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\Lab3WebApplication\\WebApplication\\WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\8.0.10\\microsoft.aspnetcore.authentication.google.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
